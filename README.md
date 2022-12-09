@@ -5,21 +5,21 @@
 ## schedule:   
 - LT会#1  
 - Flutter勉強会  
-## LT会  
+## LT会#1  
 ### speakers  
 - 
 - 
 - 
-## 勉強会  
+## Flutter勉強会  
 1. Flutter環境構築  
 2. Dartの基本構文  
 3. Flutterレイアウト  
 4. Flutterインタラクティブ  
 ## credit  
 organized by GDSC TMU event-core  
-facilitator: 
-  Tomohiro Tani @taniiicom,  
-  Aoi Ohta @aoiohta,
-  GDSC TMU technical-core,
-  GDSC TMU outreach-core
+### facilitator:  
+Tomohiro Tani @taniiicom,  
+Aoi Ohta @aoiohta,  
+GDSC TMU technical-core,  
+GDSC TMU outreach-core  
  
