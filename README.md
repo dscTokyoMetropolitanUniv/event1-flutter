@@ -6,15 +6,18 @@
 - LT会#1  
 - Flutter勉強会  
 ## LT会#1  
-### speakers  
-- 
-- 
-- 
+### speakers (発表順)  
+- @bbtit
+- @Rei-Suzuki1729
+  
 ## Flutter勉強会  
 1. Flutter環境構築  
 2. Dartの基本構文  
 3. Flutterレイアウト  
 4. Flutterインタラクティブ  
+
+### Dory
+https://dory.app/events/xgkCuHnLKGoUU78cOK2T/5d2dc011_gdsc-tmu-event-1-flutter/
 
 ### 持ち物 (対面の方向け)
 - PC (Windows or macOS 推奨, 最大10GB程度の空きが必要です)
@@ -36,3 +39,13 @@ Aoi Ohta @aoiohta,
 GDSC TMU technical-core,  
 GDSC TMU outreach-core  
  
+## ps. minutes
+### participants
+15 people (on-site: 8, online: 7)
+### photos
+![](src/photo1.jpg)
+![](src/photo2.jpg)
+![](src/photo4.jpg)
+![](src/photo3.jpg)
+
+*Thank you for participating!*
