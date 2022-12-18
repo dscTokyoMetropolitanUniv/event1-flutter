@@ -51,5 +51,7 @@ GDSC TMU outreach-core
 https://twitter.com/GdscTmu/status/1604436148603932673
 https://twitter.com/marshma84093472/status/1604437702220206080
 https://twitter.com/taniiicom/status/1604049021898985472
+https://twitter.com/taniiicom/status/1603322216124678145
+https://gdsc.community.dev/events/details/developer-student-clubs-tokyo-metropolitan-university-presents-event-1-flutter/
 
 *Thank you for participating!*
