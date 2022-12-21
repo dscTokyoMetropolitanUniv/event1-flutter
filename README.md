@@ -47,6 +47,7 @@ GDSC TMU outreach-core
 ![](src/photo2.jpg)
 ![](src/photo4.jpg)
 ![](src/photo3.jpg)
+![](src/photo5.jpg)
 ### links
 https://twitter.com/GdscTmu/status/1604436148603932673
 https://twitter.com/marshma84093472/status/1604437702220206080
